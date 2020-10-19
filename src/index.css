@@ -11,3 +11,75 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.one{
+  display: inline-block ;
+  flex: right;
+  padding-right: 100px;
+  
+}
+
+.two{
+  display: inline-block ;
+  flex: right;
+  padding-right: 100px;
+  
+}
+.three{
+  display: inline-block ;
+  flex: right;
+  padding-right: 100px;
+}
+.four{
+  display: inline-block ;
+  flex: right;
+  padding-right: 100px;
+}
+.five{
+  display: inline-block ;
+  flex: right;
+  padding-right: 100px;
+}
+.six{
+  display: inline-block ;
+  flex: right;
+  padding-right: 100px;
+}
+
+.first{
+  display: inline-block ;
+  flex: right;
+  padding-right: 100px;
+  
+}
+
+.second{
+  display: inline-block ;
+  flex: right;
+  padding-right: 100px;
+  
+}
+
+.third{
+  display: inline-block ;
+  flex: right;
+  padding-right: 100px;
+  
+}
+
+.img {
+  background: #210af7; 
+  border-radius: 6px;
+  cursor: pointer;
+  height: 95px;
+  line-height: 95px;
+  text-align: center;
+  transition-property: background, border-radius;
+  transition-duration: .2s, 1s;
+  transition-timing-function: linear, ease-in;
+  width: 95px;
+}
+img:hover {
+  background: #b7b4e6;
+  border-radius: 50%;
+}
+
